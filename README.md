@@ -8,9 +8,9 @@ Ir aquí: [https://deybimorales.gitlab.io](https://deybimorales.gitlab.io)
 Ir aquí: [https://deybimorales.gitlab.io](https://deybimorales.gitlab.io)
 
 
-Razones: 
+## Razones: 
 
-****A Github se le reconoce por trabajar eficientemente con [Jekyll](https://jekyllrb.com/) y [Ruby](https://www.ruby-lang.org/en/), a mi me gusta [Python](https://www.python.org). Gitlab expresa tener soporte a una extensa lista de [Generadores de Páginas Web Estáticas](https://gitlab.com/groups/pages) cada uno con su configuración para funcionar perfectamente con Gitlab Pages. Puedo elegir Nikola o Pelican que son generados por Python, probaré Pelican.****
+****A Github se le reconoce por trabajar eficientemente con [Jekyll](https://jekyllrb.com/) generado por [Ruby](https://www.ruby-lang.org/en/), a mi me gusta [Python](https://www.python.org). Gitlab expresa tener soporte a una extensa lista de [Generadores de Páginas Web Estáticas](https://gitlab.com/groups/pages) cada uno con su configuración para funcionar perfectamente con Gitlab Pages. Puedo elegir Nikola o Pelican que son generados por Python, probaré Pelican.****
 
 ****Gitlab genera el blog en la nube. No necesito compilar el blog en mi laptop cada que publique. Esto también se podría hacer en Github configurando [Travis CI](https://travis-ci.com).****
 
