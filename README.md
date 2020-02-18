@@ -1,6 +1,6 @@
 # ¡Agradezco tu visita pero he migrado a un lugar mejor para el blog!
 
-[https://deybimorales.gitlab.io](https://deybimorales.gitlab.io)
+Para ir aquí: [https://deybimorales.gitlab.io](https://deybimorales.gitlab.io)
 
 *Suceden cambios y este es el segundo desde que tengo presencia en internet, anteriormente estábamos en [blogger](https://www.blogger.com/), después no pasamos a [Nikola](https://getnikola.com/) con [Github](https://pages.github.com/). Ahora vamos utilizar Pelican almacenado en Gitlab Pages.*
 
