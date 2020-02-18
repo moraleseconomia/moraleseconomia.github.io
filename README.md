@@ -8,6 +8,9 @@ Razones:
 
 ****A Github se le reconoce por trabajar eficientemente con Jekyll. Gitlab expresa tener soporte a una extensa lista de [Generadores de Páginas Web Estáticas](https://gitlab.com/groups/pages) cada uno con su configuración para funcionar perfectamente con Gitlab Pages.****
 
-****Gitlab genera el blog en la nube. No necesito compilar el blog en mi laptop cada que publique.****
+
+****Gitlab genera el blog en la nube. No necesito compilar el blog en mi laptop cada que publique. Esto también se podría hacer en Github configurando [Travis CI](https://travis-ci.com).****
 
 ****Gitlab tiene un instuitivo editor de archivos. Por lo tanto puedo modificar el blog desde cualquier navegador. Me recuerda a blogger y wordpress.com.****
+
+****Continuar aprendiendo****
